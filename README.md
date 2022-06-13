@@ -1,10 +1,14 @@
 <div align="center">
      <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=jungkyuYang&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=react" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jungkyuYang&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=graywhite" />
   <h3>JungkyuYang</h3>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjungkyuYang%2F&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false"/></a>
+          <h2>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
   <a href="https://solved.ac/yangjung8590"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yangjung8590"/></a> 
   </a>
+     </h2>
+     <a href="https://velog.io/@jungkyu_lol"><img src="https://img.shields.io/badge/jungkyu__lol.log-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://cheerful-ruby-3bb.notion.site/12153f97a80649caa100debe385e59d5"><img src="https://img.shields.io/badge/jungkyu__lol-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
     </div>
     <br>
        <br>
@@ -12,8 +16,19 @@
             <hr>
     <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungkyuYang&layout=compact&theme=react" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungkyuYang&layout=compact&theme=graywhite" />
   </a>
-    <br>
-      <h3></h3>
+      <h3>Stack</h3>
+     <img src="https://img.shields.io/badge/JavaScript(ES6+)-F7DF1E?style=flat-square&logo=JavaScript&logoColor=FFFFFF"/>
+     <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=FFFFFF"/>
+     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/>
+     <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=FFFFFF"/>
+          <img src="https://img.shields.io/badge/Sass-DB7093?style=flat-square&logo=Sass&logoColor=FFFFFF"/>
+     <ul>
+          <li>Programming languages: JavaScript</li>
+          <li>Framework<li>
+     </ul>                   
+      <h3>Adding...<h3>
+     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=FFFFFF"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=FFFFFF"/>
 </div>
