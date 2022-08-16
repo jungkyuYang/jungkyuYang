@@ -6,7 +6,7 @@
 <div align="center">
   
   <!-- github state -->
-  <a href="https://github.com/jungkyuYang/"><img align="right" src="https://github-readme-stats.vercel.app/api?username=jungkyuYang&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=default "/></a>
+  <a href="https://github.com/jungkyuYang/"><img align="right" src="https://github-readme-stats.vercel.app/api?username=jungkyuYang&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=default"/></a>
    
   <!-- profile -->
   <h3>JungkyuYang</h3>
@@ -21,7 +21,7 @@
 <hr>
   <!-- github rate -->
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=jungkyuYang&layout=compact&theme=default "/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=jungkyuYang&layout=compact&theme=default"/></a>
   
   <!-- skill -->
   <h4>Main</h4>
