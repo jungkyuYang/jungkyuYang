@@ -37,10 +37,12 @@
 <hr>
 <div align="center">
 <div align="left">
+  <div align="right">2025.02.04. 업데이트</div>
   <div>LEVEL 1 - 공식문서를 읽고 사용할 수 있습니다.</div>
   <div>LEVEL 2 - 기본 기능을 사용할 수 있습니다.</div>
   <div>LEVEL 3 - 활용할 수 있습니다.</div>
 </div>
+    
   <br>
   <table style="border-collapse: collapse; text-align: center;">
     <tr>
