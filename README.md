@@ -67,13 +67,13 @@
           </tr>
           <tr>
             <td>
-              <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=FFFFFF"/>
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=FFFFFF"/>
             </td>
             <td>LEVEL 2</td>
           </tr>
           <tr>
             <td>
-             <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=FFFFFF"/>
+             <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=FFFFFF"/>
             </td>
             <td>LEVEL 1</td>
           </tr>
@@ -130,7 +130,7 @@
           </tr>
           <tr>
             <td>
-              <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=FFFFFF"/>
+              <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=FFFFFF"/>
             </td>
             <td>LEVEL 1</td>
           </tr>
@@ -151,7 +151,7 @@
           </tr>
           <tr>
             <td>
-              <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/>
+              <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/>
             </td>
             <td>LEVEL 2</td>
           </tr>
