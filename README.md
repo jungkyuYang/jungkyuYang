@@ -2,7 +2,8 @@
 <div align="right">
   <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjungkyuYang%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
+      <a href="https://hitmeup-backend-593087166771.asia-northeast1.run.app"><img src="https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%253A%252F%252Fgithub.com%252FjungkyuYang&title=Hello%F0%9F%98%8A&title_bg=3c3f80&count_bg=aab0b6&edge_flat=false" alt="hits"/></a>
+<!--       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjungkyuYang%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/> -->
     </a>
     <a href="https://solved.ac/yangjung8590">
       <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yangjung8590"/>
